@@ -13,6 +13,16 @@ All notable changes to this project will be documented in this file.
 - _Lorem ipsum..._
 -->
 
+## [Unreleased] - yyyy/mm/dd
+### Added
+- _Lorem ipsum..._
+### Removed
+- _Lorem ipsum..._
+### Fixed
+- _Lorem ipsum..._
+### Changed
+- README file.
+
 ## [0.5.2] - 2026/09/04
 ### Added
 - New optional arguments in `WaterColumn.plotVariables()`: `colors`, `title`, `title_fs`.
